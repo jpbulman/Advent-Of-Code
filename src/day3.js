@@ -41,6 +41,7 @@ let lines = file.toString().split("\n");
 const deltaxs = [1, 3, 5, 7, 1];
 const deltays = [1, 1, 1, 1, 2];
 
+// Whoops, forgot about modulo ¯\_(ツ)_/¯
 lines = lines.map((line) => {
   let longerLine = line;
   for (let i = 0; i < 100; i++) {
@@ -55,6 +56,7 @@ for (let i = 0; i < deltays.length; i++) {
   const deltay = deltays[i];
 
   const depth = lines.length;
+  // Wow how is this even allowed to happen
   let x = (y = treesHit = 0);
   while (y < depth - 1) {
     x += deltax;
