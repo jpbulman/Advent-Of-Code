@@ -37,6 +37,7 @@ let lines = file.toString().split("\n");
  * PART TWO
  */
 
+// Entering the danger zone with a function that can return either a boolean or the acc value
 function lineChangeEndsProgram(lineNum, inst) {
   let linesSeen = new Set();
   let acc = 0;
