@@ -4,7 +4,6 @@ import { resolve } from "path";
 import { fileURLToPath } from "url";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
-// const file = readFileSync(resolve(__dirname, "./day10.txt"));
 const file = readFileSync(resolve(__dirname, "./day10.txt"));
 
 const part1 = () => {
@@ -15,7 +14,6 @@ const part1 = () => {
     return a - b;
   });
 
-  //   const joltAdapters = new Set(lines);
   let oneCounts = 0;
   let threeCounts = 0;
   for (let i = 0; i < lines.length; i++) {
@@ -93,7 +91,7 @@ const part2SingleLine = () => {
   console.log(foo);
 };
 
-// part1();
+part1();
 part2();
 part2SingleLine();
 
