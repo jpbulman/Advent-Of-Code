@@ -69,13 +69,14 @@ const part2SingleLine = () => {
   let lines = file.toString().split("\n");
   lines = lines.map((p) => parseInt(p));
   // JS is sometimes stupid as duck
-  lines = lines.sort(function (a, b) {
-    return a - b;
-  });
+  // lines = lines.sort(function (a, b) {
+  //   return a - b;
+  // });
 
   const arr = new Map();
-  arr.set(157, 1);
+  arr.set(Math.max(...lines) + 3, 1);
   const foo = lines
+    .sort((a, b) => a - b)
     .reverse()
     .map((c) =>
       arr
