@@ -1,4 +1,3 @@
-import { dir } from "console";
 import { readFileSync } from "fs";
 import { dirname } from "path";
 import { resolve } from "path";
