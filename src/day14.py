@@ -37,8 +37,6 @@ def part2():
                 if(char == "1" or char == "X"):
                     memoryAddress = memoryAddress[:idx] + char + memoryAddress[idx + 1:]
 
-            print(memoryAddress + "!!!!")
-
             xcount = memoryAddress.count("X")
             numReplacements = 2 ** xcount
             replacements = []
@@ -50,11 +48,19 @@ def part2():
                     if currBit == "X":
                         alternateMemAddress = alternateMemAddress[:index] + currBin[bitCount] + alternateMemAddress[index + 1:]
                         bitCount += 1
-                print(alternateMemAddress, currBin)
                 replacements.append(alternateMemAddress)
 
             for newAddress in replacements:
+                # print("Value " + memoryValue + " is being written to address " + newAddress)
                 memory[newAddress] = memoryValue
+
+                sum = 0
+            for key, val in memory.items():
+                sum += int(val, 2)
+            if str(int(memoryValue, 2)) == "18926":
+                for foo in replacements:
+                    print(foo)
+            # print("CURRENT SUM: " + str(sum) + " "  + str(int(memoryValue, 2)))
 
         elif "mask" in line:
             parts = line.split(" = ")
