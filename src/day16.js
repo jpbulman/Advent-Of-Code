@@ -76,7 +76,6 @@ const part2 = () => {
     ranges.add(numparts[1]);
   });
 
-  let sum = 0;
   const badIdxs = new Set();
   nearbyTickets.forEach((t, idx) => {
     const vals = t.split(",");
@@ -166,5 +165,5 @@ const part2 = () => {
   console.log(prod);
 };
 
-// part1();
+part1();
 part2();
