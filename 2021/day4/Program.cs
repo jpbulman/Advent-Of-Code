@@ -114,7 +114,7 @@ namespace day4
     {
         static void Main(string[] args)
         {
-            // p1();
+            p1();
             p2();
         }
 
