@@ -1,0 +1,16 @@
+/home/jpbulman/Desktop/AdventOfCode/day6/bin/Debug/net5.0/day6
+/home/jpbulman/Desktop/AdventOfCode/day6/bin/Debug/net5.0/day6.deps.json
+/home/jpbulman/Desktop/AdventOfCode/day6/bin/Debug/net5.0/day6.runtimeconfig.json
+/home/jpbulman/Desktop/AdventOfCode/day6/bin/Debug/net5.0/day6.runtimeconfig.dev.json
+/home/jpbulman/Desktop/AdventOfCode/day6/bin/Debug/net5.0/day6.dll
+/home/jpbulman/Desktop/AdventOfCode/day6/bin/Debug/net5.0/ref/day6.dll
+/home/jpbulman/Desktop/AdventOfCode/day6/bin/Debug/net5.0/day6.pdb
+/home/jpbulman/Desktop/AdventOfCode/day6/obj/Debug/net5.0/day6.csproj.AssemblyReference.cache
+/home/jpbulman/Desktop/AdventOfCode/day6/obj/Debug/net5.0/day6.GeneratedMSBuildEditorConfig.editorconfig
+/home/jpbulman/Desktop/AdventOfCode/day6/obj/Debug/net5.0/day6.AssemblyInfoInputs.cache
+/home/jpbulman/Desktop/AdventOfCode/day6/obj/Debug/net5.0/day6.AssemblyInfo.cs
+/home/jpbulman/Desktop/AdventOfCode/day6/obj/Debug/net5.0/day6.csproj.CoreCompileInputs.cache
+/home/jpbulman/Desktop/AdventOfCode/day6/obj/Debug/net5.0/day6.dll
+/home/jpbulman/Desktop/AdventOfCode/day6/obj/Debug/net5.0/ref/day6.dll
+/home/jpbulman/Desktop/AdventOfCode/day6/obj/Debug/net5.0/day6.pdb
+/home/jpbulman/Desktop/AdventOfCode/day6/obj/Debug/net5.0/day6.genruntimeconfig.cache
