@@ -1,0 +1,16 @@
+/home/jpbulman/Desktop/AdventOfCode/2021/day12/bin/Debug/net5.0/day12
+/home/jpbulman/Desktop/AdventOfCode/2021/day12/bin/Debug/net5.0/day12.deps.json
+/home/jpbulman/Desktop/AdventOfCode/2021/day12/bin/Debug/net5.0/day12.runtimeconfig.json
+/home/jpbulman/Desktop/AdventOfCode/2021/day12/bin/Debug/net5.0/day12.runtimeconfig.dev.json
+/home/jpbulman/Desktop/AdventOfCode/2021/day12/bin/Debug/net5.0/day12.dll
+/home/jpbulman/Desktop/AdventOfCode/2021/day12/bin/Debug/net5.0/ref/day12.dll
+/home/jpbulman/Desktop/AdventOfCode/2021/day12/bin/Debug/net5.0/day12.pdb
+/home/jpbulman/Desktop/AdventOfCode/2021/day12/obj/Debug/net5.0/day12.csproj.AssemblyReference.cache
+/home/jpbulman/Desktop/AdventOfCode/2021/day12/obj/Debug/net5.0/day12.GeneratedMSBuildEditorConfig.editorconfig
+/home/jpbulman/Desktop/AdventOfCode/2021/day12/obj/Debug/net5.0/day12.AssemblyInfoInputs.cache
+/home/jpbulman/Desktop/AdventOfCode/2021/day12/obj/Debug/net5.0/day12.AssemblyInfo.cs
+/home/jpbulman/Desktop/AdventOfCode/2021/day12/obj/Debug/net5.0/day12.csproj.CoreCompileInputs.cache
+/home/jpbulman/Desktop/AdventOfCode/2021/day12/obj/Debug/net5.0/day12.dll
+/home/jpbulman/Desktop/AdventOfCode/2021/day12/obj/Debug/net5.0/ref/day12.dll
+/home/jpbulman/Desktop/AdventOfCode/2021/day12/obj/Debug/net5.0/day12.pdb
+/home/jpbulman/Desktop/AdventOfCode/2021/day12/obj/Debug/net5.0/day12.genruntimeconfig.cache
